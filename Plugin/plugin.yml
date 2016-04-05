@@ -1,0 +1,3 @@
+name: Plugin
+main: plugin.PluginClass
+version: 1.0.0
