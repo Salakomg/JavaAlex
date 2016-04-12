@@ -23,7 +23,7 @@ public class medm {
 		 	  
 		 	    if(opcion.equals("dam")){
 		 	    	
-		 	    	double h = a*100;
+		 	    	double h = a * 100;
 		 	    
 		 	    	JOptionPane.showMessageDialog(null, "En dam es: " + h);
 		 	    }
