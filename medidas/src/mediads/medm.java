@@ -33,6 +33,7 @@ public class medm {
 		 	    	double j = a * 1000;
 		 	    
 		 	        JOptionPane.showMessageDialog(null, "En m es: " + j);
+		 	        
 		 	    }
 		 	    
 		 	    if(opcion.equals("dm")){
